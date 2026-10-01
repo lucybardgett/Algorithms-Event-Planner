@@ -1,6 +1,9 @@
 # Algorithms-Event-Planner
 Public copy of a Python project developed collaboratively as part of coursework at the University of Exeter
 
+## To Run
+- run the event_planner file directly, to change which input file is used edit line 6 
+
 ## The task
 we were required to work in groups of 5 documenting individual contributions and ensuring a fair work split in order to develop 2 python based Algorithms for a 'Data structures and Algorithms' coursework. The first program is Brute force algorithm and helped us to understand the impracticality of this method for large amounts of data. The second is a dynamic algorithm using a table based approach to log combinations and produce a cost efficient solution.
 
